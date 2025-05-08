@@ -21,3 +21,4 @@ Given the need for a vaccine and the number of cases that occured due to the pan
 Through my analysis, I was not surprised to see even retail stores muddying the waters and maintaining a top spot.
 Financial institutions did interest me on how they were the most represented industry given many people may have lost their jobs during this time and the economy taking a big hit.
 Pfizer being the highest growth company was not surprising but the percentage at which it grew was highly impressive.
+To view my code, you can use VSC or Visual Studio Code.
